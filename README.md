@@ -1,4 +1,4 @@
-A detailed step-by-step guide to set up a self-hosting server for your personal web blog using **Ubuntu Server** on **VirtualBox**.
+A detailed step-by-step guide to set up a self-hosting server for personal web blog using **Ubuntu Server** on **VirtualBox**.
 
 ---
 
